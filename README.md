@@ -23,16 +23,15 @@ Selam Dating App is a modern and engaging mobile application built using **Flutt
 - **Frontend:** Flutter (Dart)
 - **Backend:** Firebase Authentication, Firestore, Firebase Storage
 - **State Management:** BLoC
-- **Navigation:** GoRouter
 - **Database:** Firebase Firestore
 
 ---
 
 ## 📸 Screenshots
 
-| Home Screen                     | Chat Screen                     | Profile Setup                         |
-| ------------------------------- | ------------------------------- | ------------------------------------- |
-| ![Home](assets/github/home.png) | ![Chat](assets/github/chat.png) | ![Profile](assets/github/profile.png) |
+| Home Screen                            | Chat Screen                            | Profile Setup                                |
+| -------------------------------------- | -------------------------------------- | -------------------------------------------- |
+| ![Home](assets/images/github/home.png) | ![Chat](assets/images/github/chat.png) | ![Profile](assets/images/github/profile.png) |
 
 ---
 
