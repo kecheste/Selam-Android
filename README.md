@@ -2,7 +2,7 @@
 
 Selam Dating App is a modern and engaging mobile application built using **Flutter** and **Firebase**. It connects people in meaningful ways, making dating seamless, fun, and interactive.
 
-![Selam Dating App](assets/logo.png)
+![Selam Dating App](assets/icons/logo.png)
 
 ---
 
@@ -53,10 +53,10 @@ flutter pub get
 3️⃣ **Run the app**
 
 ```sh
-flutter run
+flutter run --dart-define=NOTIFICATION_SERVER_KEY="Firebase messaging notification server key"
 ```
 
-> ⚠️ Ensure you have Firebase configured for both iOS and Android before running the app.
+> ⚠️ Ensure you have Firebase configured for Android before running the app.
 
 ---
 
